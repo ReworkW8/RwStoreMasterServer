@@ -1,0 +1,20 @@
+{
+    "displayname" : "Media Play Ready",
+    "productType" : "dependency",
+    "downloadUriS" : [
+        "https://dankassassin368.com/Stuff/APPX/Dependencies/Windows%208.1%20APPX%20Dependencies/PlayReadyClient/Microsoft.Media.PlayReadyClient_2.3.1678.0_x86__8wekyb3d8bbwe.Appx",
+        "https://dankassassin368.com/Stuff/APPX/Dependencies/Windows%208.1%20APPX%20Dependencies/PlayReadyClient/Microsoft.Media.PlayReadyClient_2.3.1678.0_x64__8wekyb3d8bbwe.Appx",
+        "https://dankassassin368.com/Stuff/APPX/Dependencies/Windows%208.1%20APPX%20Dependencies/PlayReadyClient/Microsoft.Media.PlayReadyClient.2_2.5.1891.0_x86__8wekyb3d8bbwe.appx",
+        "https://dankassassin368.com/Stuff/APPX/Dependencies/Windows%208.1%20APPX%20Dependencies/PlayReadyClient/Microsoft.Media.PlayReadyClient.2_2.5.1891.0_x64__8wekyb3d8bbwe.appx",
+        "https://dankassassin368.com/Stuff/APPX/Dependencies/Windows%208.1%20APPX%20Dependencies/PlayReadyClient/Microsoft.Media.PlayReadyClient.2_2.11.2154.0_x86__8wekyb3d8bbwe.Appx",
+        "https://dankassassin368.com/Stuff/APPX/Dependencies/Windows%208.1%20APPX%20Dependencies/PlayReadyClient/Microsoft.Media.PlayReadyClient.2_2.11.2154.0_x64__8wekyb3d8bbwe.Appx"
+    ],
+    "displaynames" : [
+        "Play Ready Client 2.3 x86",
+        "Play Ready Client 2.3 x64",
+        "Play Ready Client 2 2.5 x86",
+        "Play Ready Client 2 2.5 x64",
+        "Play Ready Client 2 2.11 x86",
+        "Play Ready Client 2 2.11 x64"
+    ]
+}
