@@ -5,8 +5,7 @@
   },
   "classification": {
     "productType": "app",
-    "category": "productivity",
-
+    "category": "productivity"
   },
   "deployment": {
     "imgUrl": "https://reworkw8.github.io/WSRMasterServer/images/photoshop.png",
@@ -14,6 +13,5 @@
   },
   "server_metadata": {
     "status": "verified",
-    "last_updated": "2024-05-20",
   }
 }
