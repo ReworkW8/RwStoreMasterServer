@@ -1,6 +1,22 @@
 {
-    "dependencies" : [
-        "mediaPlayReady",
-        "winJS"
-    ]
+  "rework_core_system": {
+    "runtime_requirements": {
+      "framework_dependencies": [
+        {
+          "name": "mediaPlayReady",
+          "version": "latest",
+          "essential": true
+        },
+        {
+          "name": "winJS",
+          "version": "2.0",
+          "essential": true
+        }
+      ],
+      "environment_tags": [
+        "wsr",
+        "store"
+      ]
+    }
+  }
 }
