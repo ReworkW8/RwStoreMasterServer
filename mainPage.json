@@ -1,33 +1,46 @@
 {
+  "server_protocol": {
+    "connection_mode": "standalone",
     "offline": true,
-    "featuredApps": {
-        "appNames": [
-            "weatherRetiled",
-            "newsRetiled",
-            "freshPaint",
-            "cutTheRope",
-            "twitterBlueTweety",
-            "crossyRoad"
+    "priority_level": 1
+  },
+  "content_delivery_network": {
+    "manifest_version": "3.1.0",
+    "clusters": {
+      "featured_distribution": {
+        "label": "FEATURED_CONTENT",
+        "app_nodes": [
+          "weatherRetiled",
+          "newsRetiled",
+          "freshPaint",
+          "cutTheRope",
+          "twitterBlueTweety",
+          "crossyRoad"
         ]
-    },
-    "topApps": {
-        "appNames": [
-            "myTube",
-            "adobePhotoshop",
-            "openTracks",
-            "networkSpeedTest",
-            "kindle",
-            "financeRetiled"
+      },
+      "high_traffic_apps": {
+        "label": "TOP_PERFORMING_APPS",
+        "app_nodes": [
+          "myTube",
+          "adobePhotoshop",
+          "openTracks",
+          "networkSpeedTest",
+          "kindle",
+          "financeRetiled"
         ]
-    },
-    "topGames": {
-        "appNames": [
-            "angryBirdsSpace",
-            "msMinesweeper",
-            "cutTheRope",
-            "whereismyWhater",
-            "fruitNinja",
-            "raymanJungleRun"
+      },
+      "gaming_sector": {
+        "label": "TOP_GAMES_VAULT",
+        "app_nodes": [
+          "angryBirdsSpace",
+          "msMinesweeper",
+          "cutTheRope",
+          "whereismyWhater",
+          "fruitNinja",
+          "raymanJungleRun"
         ]
+      }
     }
+  },
+  "provisioning_status": "active"
 }
