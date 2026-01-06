@@ -38,6 +38,6 @@ for(let i = 0; i<pathes.lenght; i++){
 
 
 app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:https://reworkw8.github.io/WSRMasterServer/${PORT}`);
+  console.log(`Server is running on https://reworkw8.github.io/WSRMasterServer/${PORT}`);
   console.log(`API endpoint: https://reworkw8.github.io/WSRMasterServer/:${PORT}/api/users`);
 });
