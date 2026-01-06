@@ -1,8 +1,7 @@
 {
   "server_protocol": {
     "connection_mode": "standalone",
-    "offline": true,
-    "priority_level": 1
+    "offline": false,
   },
   "content_delivery_network": {
     "manifest_version": "3.1.0",
