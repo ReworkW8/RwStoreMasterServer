@@ -1,8 +1,5 @@
 {
-  "server_status": {
     "offline": false,
-  },
-  "store_content": {
     "featuredApps": {
       "appNames": [
         "weatherRetiled",
@@ -35,3 +32,4 @@
     }
   }
 }
+
