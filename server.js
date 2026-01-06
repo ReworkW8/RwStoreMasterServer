@@ -6,13 +6,9 @@ const cors = require('cors');
 const app = express();
 const PORT = 5000;
 
-// Enable CORS so your Windows 8.1 app can access the API without security blocks
 app.use(cors());
 
-/**
- * Route 1: Serve the Main Page data
- * Access via: http://localhost:5000/WSRMasterServer/mainPage.json
- */
+
 app.get('/WSRMasterServer/mainPage.json', (req, res) => {
     const filePath = path.join(__dirname, 'mainPage.json');
     fs.readFile(filePath, 'utf8', (err, data) => {
@@ -26,11 +22,7 @@ app.get('/WSRMasterServer/mainPage.json', (req, res) => {
 });
 
 /**
- * Route 2: Dynamic App Route
- * This replaces the manual list (angryBirds, etc.) from your second script.
- * Any JSON file placed in the /apps/ folder will be automatically available.
- * Access via: http://localhost:5000/WSRMasterServer/apps/appName.json
- */
+
 app.get('/WSRMasterServer/apps/:appName.json', (req, res) => {
     const appName = req.params.appName;
     const filePath = path.join(__dirname, 'apps', `${appName}.json`);
