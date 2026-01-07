@@ -47,9 +47,7 @@ app.get('/WSRMasterServer/apps/:appName.json', (req, res) => {
 
 // Start the Server
 app.listen(PORT, () => {
-    console.log(`====================================================`);
     console.log(`WSR Master Server is running on port ${PORT}`);
     console.log(`Main Directory: http://localhost:${PORT}/WSRMasterServer/mainPage.json`);
     console.log(`App Directory:  http://localhost:${PORT}/WSRMasterServer/apps/[filename].json`);
-    console.log(`====================================================`);
 });
