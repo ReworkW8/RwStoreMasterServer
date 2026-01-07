@@ -15,7 +15,6 @@
         "content_registry": {
             "deployment_groups": {
                 "curated_selection": {
-                    "title": "Spotlight",
                     "internal_code": "RW-FL-001",
                     "payload": [
                         {"uid": "RW_WTHR_88", "label": "weatherRetiled"},
@@ -67,3 +66,4 @@
         }
     }
 }
+
