@@ -24,6 +24,7 @@
                         {"uid": "RW_SOC_TBT", "label": "twitter"},
                         {"uid": "RW_GAME_CR", "label": "crossyRoad"}
                         {"uid": "RW_NTFX_01", "label": "netflix"}
+                        {"uid": "RW_DGDD_01", "label": "dogedodge"}
                     ]
                 },
                 "utility_peak": {
@@ -56,6 +57,7 @@
         }
     }
 }
+
 
 
 
