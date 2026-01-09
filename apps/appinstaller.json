@@ -1,0 +1,12 @@
+{
+    "displayname" : "App Installer",
+    "productType" : "app",
+    "category" : "App Installer",
+    "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/appinstaller.png",
+    "downloadUri" : "https://github.com/modernw/AppInstallerForWin8/releases/download/1.0.1.13/InstallerSetup.exe"
+
+}
+
+
+
+
