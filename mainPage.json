@@ -57,7 +57,7 @@
                     "internal_code": "RW-COLL-004",
                     "payload": [
                         {
-                            "title": "Red Stripe Deals",
+                            "title": "Great Apps",
                             "apps": ["weatherRetiled", "newsRetiled", "freshPaint", "cutTheRope"]
                         },
                         {
@@ -85,3 +85,4 @@
         }
     }
 }
+
