@@ -26,6 +26,7 @@
             { "label": "tortasypostres", "uid": "RW_TYPS_01" },
             { "label": "peppapigmemorygame", "uid": "RW_PPMG_01" },
             { "label": "deezer", "uid": "RW_DZR_01" },
+            { "label": "comedycentral", "uid": "RW_CC_01" },
             { "label": "travelRetiled", "uid": "RW_TRVL_01" }
           ]
         },
