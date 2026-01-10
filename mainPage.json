@@ -58,6 +58,8 @@
                     "title": "New & Rising",
                     "internal_code": "RW-N&R-004",
                     "payload": [
+                        {"uid": "RW_TYPS_01", "label": "tortasypostres"}
+                        
                         
                     ]
                 },
@@ -118,6 +120,7 @@
         }
     }
 }
+
 
 
 
