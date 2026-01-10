@@ -88,7 +88,7 @@
                         {"uid": "RW_G_WMW", "label": "xboxGamesAppRetiled"},
                         {"uid": "RW_G_FNJ", "label": "netflix"},
                         {"uid": "RW_DWTD2TG_01", "label": "openTracks"},
-                        {"uid": "RW_G_RRX", "label": "freshPaint"}
+                        {"uid": "RW_CC_01", "label": "comedycentral"}
                         
                     ]
                 },
@@ -135,6 +135,7 @@
         }
     }
 }
+
 
 
 
