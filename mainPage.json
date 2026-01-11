@@ -13,6 +13,28 @@
             "auth_service": "https://reworkw8.github.io/WSRMasterServer/auth"
         },
         "content_registry": {
+            "live_tile_feed": {
+                "internal_code": "RW-LT-TEXT",
+                "update_policy": "cycle_random",
+                "payload": [
+                    {"uid": "RW_MTB_07", "label": "myTube"},
+                    {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
+                    {"uid": "RW_ADOBE_PS", "label": "adobePhotoshop"},
+                    {"uid": "RW_G_MSW", "label": "msMinesweeper"},
+                    {"uid": "RW_TYPS_01", "label": "tortasypostres"},
+                    {"uid": "RW_TRK_OPEN", "label": "openTracks"},
+                    {"uid": "RW_G_CTR_L", "label": "cutTheRope"},
+                    {"uid": "RW_DZR_01", "label": "deezer"},
+                    {"uid": "RW_NET_SPD", "label": "networkSpeedTest"},
+                    {"uid": "RW_G_WMW", "label": "whereismyWhater"},
+                    {"uid": "RW_AMZ_KNDL", "label": "kindle"},
+                    {"uid": "RW_G_FNJ", "label": "fruitNinja"},
+                    {"uid": "RW_NTFX_01", "label": "netflix"},
+                    {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames"},
+                    {"uid": "RW_EVNE_01", "label": "evernote"},
+                    {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
+                ]
+            },
             "deployment_groups": {
                 "curated_selection": {
                     "title": "Featured",
@@ -61,8 +83,6 @@
                     "payload": [
                         {"uid": "RW_TYPS_01", "label": "tortasypostres"},
                         {"uid": "RW_DZR_01", "label": "deezer"}
-                        
-                        
                     ]
                 },
                 "grossing_peak": {
@@ -76,7 +96,6 @@
                         {"uid": "RW_G_FNJ", "label": "fruitNinja"},
                         {"uid": "RW_DWTD2TG_01", "label": "openTracks"},
                         {"uid": "RW_G_RRX", "label": "travelRetiled"}
-                        
                     ]
                 },
                 "rated_peak": {
@@ -90,7 +109,6 @@
                         {"uid": "RW_G_FNJ", "label": "netflix"},
                         {"uid": "RW_DWTD2TG_01", "label": "openTracks"},
                         {"uid": "RW_CC_01", "label": "comedycentral"}
-                        
                     ]
                 },
                 "rework_peak": {
@@ -100,7 +118,6 @@
                         {"uid": "RW_STORE_01", "label": "store"},
                         {"uid": "RW_MSO_01", "label": "msoclient"},
                         {"uid": "RW_RBLX_01", "label": "robloxrework"}
-
                     ]
                 },
                 "collections_registry": {
@@ -136,23 +153,3 @@
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
