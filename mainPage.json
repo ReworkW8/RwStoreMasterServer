@@ -16,23 +16,23 @@
             "live_tile_feed": {
                 "internal_code": "RW-LT-TITLE",
                 "update_policy": "cycle_random",
-                "payload": [
-                    {"uid": "RW_MTB_07", "label": "myTube"},
-                    {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
-                    {"uid": "RW_ADOBE_PS", "label": "adobePhotoshop"},
-                    {"uid": "RW_G_MSW", "label": "msMinesweeper"},
-                    {"uid": "RW_TYPS_01", "label": "tortasypostres"},
-                    {"uid": "RW_TRK_OPEN", "label": "openTracks"},
-                    {"uid": "RW_G_CTR_L", "label": "cutTheRope"},
-                    {"uid": "RW_DZR_01", "label": "deezer"},
-                    {"uid": "RW_NET_SPD", "label": "networkSpeedTest"},
-                    {"uid": "RW_G_WMW", "label": "whereismyWhater"},
-                    {"uid": "RW_AMZ_KNDL", "label": "kindle"},
-                    {"uid": "RW_G_FNJ", "label": "fruitNinja"},
-                    {"uid": "RW_NTFX_01", "label": "netflix"},
-                    {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames"},
-                    {"uid": "RW_EVNE_01", "label": "evernote"},
-                    {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
+"payload": [
+                    {"uid": "RW_MTB_07", "label": "myTube", "description": "Description for myTube"},
+                    {"uid": "RW_G_ABS", "label": "angryBirdsSpace", "description": "Description for Angry Birds Space"},
+                    {"uid": "RW_ADOBE_PS", "label": "adobePhotoshop", "description": "Description for Photoshop"},
+                    {"uid": "RW_G_MSW", "label": "msMinesweeper", "description": "Description for Minesweeper"},
+                    {"uid": "RW_TYPS_01", "label": "tortasypostres", "description": "Description for Tortas y Postres"},
+                    {"uid": "RW_TRK_OPEN", "label": "openTracks", "description": "Description for Open Tracks"},
+                    {"uid": "RW_G_CTR_L", "label": "cutTheRope", "description": "Description for Cut The Rope"},
+                    {"uid": "RW_DZR_01", "label": "deezer", "description": "Description for Deezer"},
+                    {"uid": "RW_NET_SPD", "label": "networkSpeedTest", "description": "Description for Network Speed Test"},
+                    {"uid": "RW_G_WMW", "label": "whereismyWhater", "description": "Description for Where is my Water"},
+                    {"uid": "RW_AMZ_KNDL", "label": "kindle", "description": "Description for Kindle"},
+                    {"uid": "RW_G_FNJ", "label": "fruitNinja", "description": "Description for Fruit Ninja"},
+                    {"uid": "RW_NTFX_01", "label": "netflix", "description": "Description for Netflix"},
+                    {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames", "description": "Description for Dumb Ways to Die 2"},
+                    {"uid": "RW_EVNE_01", "label": "evernote", "description": "Description for Evernote"},
+                    {"uid": "RW_G_RRX", "label": "raymanJungleRun", "description": "Description for Rayman Jungle Run"}
                 ]
             },
             "deployment_groups": {
@@ -153,6 +153,7 @@
         }
     }
 }
+
 
 
 
