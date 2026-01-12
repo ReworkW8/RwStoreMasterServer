@@ -2,15 +2,14 @@
     "rework_core_system": {
         "gateway_control": {
             "node_active": true,
-            "maintenance_mode": false,
+            "maintenance_mode": false, 
             "session_persistence": "enabled",
             "global_status": "operational",
             "environment": "production-master",
-            "client_validation": {
-                "required_version": "1.2.0.0",
-                "version_source": "default.html",
-                "force_client_maintenance_on_mismatch": true,
-                "strict_mode": true
+            "version_lock": {
+                "active_version": "1.2.0.0",
+                "action_on_incompatible": "FORCE_OFFLINE",
+                "enforce_maintenance_for_legacy": true
             }
         },
         "network_routing": {
@@ -159,3 +158,4 @@
         }
     }
 }
+
