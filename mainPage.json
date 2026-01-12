@@ -89,7 +89,8 @@
                     "payload": [
                         {"uid": "RW_TYPS_01", "label": "tortasypostres"},
                         {"uid": "RW_DZR_01", "label": "deezer"},
-                        {"uid": "RW_VLC_01", "label": "vlcplayer"}
+                        {"uid": "RW_VLC_01", "label": "vlcplayer"},
+                        {"uid": "RW_AMZN_01", "label": "amazon"}
                     ]
                 },
                 "grossing_peak": {
@@ -160,5 +161,6 @@
         }
     }
 }
+
 
 
