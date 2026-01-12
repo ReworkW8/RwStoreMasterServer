@@ -4,7 +4,7 @@
             "node_active": true,
             "maintenance_mode": true, 
             "lock_mode": true,
-            "version1.3": false,
+            "version1.3": true,
             "session_persistence": "enabled",
             "global_status": "operational",
             "environment": "production-master",
@@ -177,6 +177,7 @@
         }
     }
 }
+
 
 
 
