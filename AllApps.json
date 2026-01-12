@@ -31,6 +31,7 @@
             { "label": "vlcplayer", "uid": "RW_VLC_01" },
             { "label": "amazon", "uid": "RW_AMZN_01" },
             { "label": "ebay", "uid": "RW_EBY_01" },
+            { "label": "adobereader", "uid": "RW_ADRE_01" },
             { "label": "travelRetiled", "uid": "RW_TRVL_01" }
           ]
         },
