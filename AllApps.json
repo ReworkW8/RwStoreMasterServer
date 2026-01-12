@@ -30,6 +30,7 @@
             { "label": "moorhuhn", "uid": "RW_MH_01" },
             { "label": "vlcplayer", "uid": "RW_VLC_01" },
             { "label": "amazon", "uid": "RW_AMZN_01" },
+            { "label": "ebay", "uid": "RW_EBY_01" },
             { "label": "travelRetiled", "uid": "RW_TRVL_01" }
           ]
         },
