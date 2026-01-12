@@ -45,8 +45,8 @@
                 "internal_code": "RW-SPOTLIGHT-PROMO",
                 "payload": [
                     
-                        {"uid": "RW_MTB_07", "label": "myTube", "description": "Experience YouTube like never before.", "image_url": "https://reworkw8.github.io/WSRMasterServer/images/photoshop.png"},
-                        {"uid": "RW_MTB_07", "label": "moorhuhn", "description": "Experience Moorhuhn like never before.", "image_url": "https://reworkw8.github.io/WSRMasterServer/images/photoshop.png"}
+                        {"uid": "RW_MTB_07", "label": "myTube", "description": "Experience YouTube like never before.", "image_url": ""},
+                        {"uid": "RW_MTB_07", "label": "moorhuhn", "description": "Against a magnificent backdrop, it's time once again to hit the CHICKEN! This time, the moorhuhn will try absolutely everything to escape the player. Whether it hides in an old oven, flees to the outhouse, or even disguises itself as a sunflower, the chicken will leave no stone unturned in its quest to evade the hunter. But this game isn't just about shooting, because moorhens are a cunning bunch! Uncover all their secrets to maximize your score.", "image_url": "https://reworkw8.github.io/WSRMasterServer/images/moorhuhnspli.PNG"}
                         
                         
                         
@@ -175,6 +175,7 @@
         }
     }
 }
+
 
 
 
