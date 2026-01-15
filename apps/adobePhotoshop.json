@@ -1,10 +1,10 @@
 {
     "displayname" : "Adobe Photoshop Express",
     "productType" : "app",
-    "category" : "productivity",
+    "category" : "Productivity",
     "publisher": "Adobe Systems Incorporated",
     "copyright": "© 2014 Adobe Systems Incorporated. All rights reserved.",
-    "description": "Snap. Edit. Share. Smile. Photo magic at your fingertips. On the go photo editing was never so fun, fast, and cool.",
+    "description": "The world’s most advanced digital imaging software, now optimized for the next generation of hardware. Whether you are a professional photographer or a digital artist, Adobe Photoshop on Windows 8 brings you closer to your pixels than ever before. With support for high-DPI displays and intuitive touch gestures, your canvas is now more responsive and immersive.",
     "mainStars": "4",
     "ratingNumber": "4.0",
     "ratingsCount": "120",
@@ -14,6 +14,7 @@
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga.appx"
 
 }
+
 
 
 
