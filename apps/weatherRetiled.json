@@ -1,10 +1,19 @@
 {
     "displayname" : "Weather",
     "productType" : "app",
-    "category" : "News and Weather",
+    "category" : "Productivity",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2014 Microsoft Corporation. All rights reserved.",
+    "description": "Prepare for your day with the most immersive weather experience ever designed. Weather for Windows 8 turns the daily forecast into a visual masterpiece. Combining high-resolution imagery with hyper-local data, this app utilizes the signature panoramic Metro interface to put the information you care about most front and center. Whether you are checking for a morning commute or planning a trip across the globe, Weather provides a comprehensive, at-a-glance look at the elements.",
+    "mainStars": "5",
+    "ratingNumber": "7.2",
+    "ratingsCount": "168",
+    "size": "27.0 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/weather.png",
     "downloadUri" : "https://dankassassin368.com/Stuff/APPX/Retiled%20Project/newRetiled/x64/Bing/9431/Weather/Microsoft.BingWeather_3.0.0.693_x64__8wekyb3d8bbwe.appx"
 
 }
+
 
 
