@@ -1,11 +1,20 @@
 {
     "displayname" : "Kindle for Windows 8",
     "productType" : "app",
-    "category" : "News and Weather",
+    "category" : "Productivity",
+    "publisher": "Amazon Inc",
+    "copyright": "© 2012 Amazon Inc. All rights reserved.",
+    "description": "Kindle for Windows 8 allows users to read Amazon eBooks on their PCs enabling access to purchased and borrowed eBooks. Users can manage their reading history, take notes, and adjust font sizes. The app also synchronizes with Amazon's Kindle Store, allowing for seamless reading across devices.",
+    "mainStars": "3",
+    "ratingNumber": "2.6",
+    "ratingsCount": "54",
+    "size": "1.84 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/kindle.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/AMZNMobileLLC.KindleforWindows8_2.1.0.2_neutral__stfe6vwa9jnbp.appx"
 
 }
+
 
 
 
