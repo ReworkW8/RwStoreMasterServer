@@ -1,9 +1,18 @@
 {
     "displayname" : "Microsoft Minesweeper",
     "productType" : "game",
-    "category" : "puzzle",
+    "category" : "Games",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2012 Microsoft Corporation. All rights reserved.",
+    "description": "Keep your mind sharp in Microsoft Minesweeper! Use logic and strategy to clear the board without triggering a mine. Sweep through the original and iconic Minesweeper game now UPDATED with NEW Themes, Play Modes, more Daily Challenges, Achievements, and ALL-NEW Auto -Chording. It's FUN for all ages!",
+    "mainStars": "4",
+    "ratingNumber": "3.1",
+    "ratingsCount": "53",
+    "size": "98.1 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/msMinesweeper.png",
     "downloadUri" : "https://dankassassin368.com/Stuff/APPX/Windows%208.1%20APPX%20Files/Games/Microsoft%20Minesweeper/Microsoft.MicrosoftMinesweeper_2.4.1408.2503_x86__8wekyb3d8bbwe.appx"
 
 }
+
 
