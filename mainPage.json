@@ -39,7 +39,7 @@
                     {"uid": "RW_G_FNJ", "label": "fruitNinja", "description": "The slicer is back and sharper than ever! Fruit Ninja brings the addictive, high-energy action of the world’s most famous fruit-slicing game to the Windows 8 ecosystem. Whether you’re a master sensei or a newcomer to the dojo, Fruit Ninja provides a satisfying blend of simple mechanics and deep, skill-based challenges that are perfect for any device."},
                     {"uid": "RW_NTFX_01", "label": "netflix", "description": "The world’s leading subscription service for movies and TV shows comes to the Start Screen. The Netflix app for Windows 8 has been built from the ground up to take full advantage of the modern Metro design. It offers a fast, fluid, and immersive way to discover and watch your favorite content—whether you are on a touch-screen tablet or a traditional desktop PC."},
                     {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames", "description": "The world’s dumbest characters are back, and they’ve gathered for an even bigger, dumber game! Following the viral success of the original campaign, Dumb Ways to Die 2: The Games brings a massive set of new, action-packed mini-games to your Windows 8 device. Train safety has never been this hilariously dangerous."},
-                    {"uid": "RW_EVNE_01", "label": "evernote", "description": "Your second brain, beautifully organized.Evernote for Windows 8 is more than just a note-taking app; it is a powerful workspace designed to help you capture, nurture, and share your ideas. Reimagined for the modern interface, Evernote combines the stability of its world-class syncing with a fluid, Metro inspired design that makes staying productive feel effortless."},
+                    {"uid": "RW_EVNE_01", "label": "evernote", "description": "Your second brain, beautifully organized. Evernote for Windows 8 is more than just a note-taking app; it is a powerful workspace designed to help you capture, nurture, and share your ideas. Reimagined for the modern interface, Evernote combines the stability of its world-class syncing with a fluid, Metro inspired design that makes staying productive feel effortless."},
                     {"uid": "RW_G_RRX", "label": "raymanJungleRun", "description": "The legendary platforming hero makes his grand debut on Windows 8! Powered by the same gorgeous UbiArt Framework engine used in Rayman Origins, Rayman Jungle Run brings breathtaking visuals and rhythm-based action to your screen. Sprint through the lush landscapes of the Glade of Dreams in a high-speed adventure that is easy for anyone to pick up, but a true challenge to master."}
                 ]
             },
@@ -186,6 +186,7 @@
         }
     }
 }
+
 
 
 
