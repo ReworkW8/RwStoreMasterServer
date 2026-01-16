@@ -1,11 +1,20 @@
 {
     "displayname" : "News",
     "productType" : "app",
-    "category" : "News and Weather",
+    "category" : "Productivity",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2014 Microsoft Corporation. All rights reserved.",
+    "description": "Stay informed with a news experience as beautiful as it is deep. News reimagines how you consume the day’s headlines. The app brings together the world’s most trusted news sources into a single, immersive experience. Whether you want a quick glance at the morning’s top stories or a deep dive into an investigative long-read, News is built to deliver.",
+    "mainStars": "5",
+    "ratingNumber": "5.9",
+    "ratingsCount": "169",
+    "size": "5.45 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/news.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Microsoft.BingNews_3.0.0.693_x64__8wekyb3d8bbwe.appx"
 
 }
+
 
 
 
