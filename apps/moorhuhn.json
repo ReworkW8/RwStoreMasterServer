@@ -1,11 +1,20 @@
 {
     "displayname" : "Moorhuhn",
     "productType" : "app",
-    "category" : "game",
+    "category" : "Games",
+    "publisher": "Doyodo Entertainment",
+    "copyright": "© 2016 Doyodo Entertainment. All rights reserved.",
+    "description": "Against a magnificent backdrop, it's time once again to hit the CHICKEN! This time, the moorhuhn will try absolutely everything to escape the player. Whether it hides in an old oven, flees to the outhouse, or even disguises itself as a sunflower, the chicken will leave no stone unturned in its quest to evade the hunter. But this game isn't just about shooting, because moorhuhns are a cunning bunch! Uncover all their secrets to maximize your score.",
+    "mainStars": "4",
+    "ratingNumber": "4.9",
+    "ratingsCount": "162",
+    "size": "12.7 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/moorhuhn.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/DoyodoEntertainment.Moorhuhn_2016.207.2005.1770_neutral___0qwabqepr8cdj.appx"
 
 }
+
 
 
 
