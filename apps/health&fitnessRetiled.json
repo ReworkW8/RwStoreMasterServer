@@ -1,10 +1,19 @@
 {
     "displayname" : "Health & Fitness",
     "productType" : "app",
-    "category" : "",
+    "category" : "Productivity",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2014 Microsoft Corporation. All rights reserved.",
+    "description": "Health & Fitness allows users to browse exercise videos, including yoga and pilates, learn about human anatomy, track their diet, monitor their cardio workouts, access a symptom checker, and learn about medical procedures and more.",
+    "mainStars": "3",
+    "ratingNumber": "2.8",
+    "ratingsCount": "84",
+    "size": "7.34 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/Healthfitness.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Microsoft.BingHealthAndFitness_3.0.0.693_x64__8wekyb3d8bbwe.appx"
 
 }
+
 
 
