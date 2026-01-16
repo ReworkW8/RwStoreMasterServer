@@ -1,11 +1,20 @@
 {
     "displayname" : "Twitter",
     "productType" : "app",
-    "category" : "social",
+    "category" : "Social",
+    "publisher": "Twitter Inc",
+    "copyright": "© 2015 Twitter Inc. All rights reserved.",
+    "description": "Discover what’s happening right now. The official Twitter app for Windows 8 brings you closer to the stories, people, and conversations that matter most to you. Reimagined with a fluid, horizontal-scrolling interface, Twitter for Windows 8 makes it easier than ever to track breaking news, follow your favorite celebrities, or share your own updates—all through a beautiful, touch-optimized experience.",
+    "mainStars": "5",
+    "ratingNumber": "5.1",
+    "ratingsCount": "132",
+    "size": "2.94 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/twitter.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/9E2F88E3.Twitter_1.1.13.8_x86__wgeqdkkx372wm.appx"
 
 }
+
 
 
 
