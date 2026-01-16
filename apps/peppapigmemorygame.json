@@ -1,11 +1,20 @@
 {
     "displayname" : "Peppa Pig Memory Game",
     "productType" : "app",
-    "category" : "puzzle",
+    "category" : "Games",
+    "publisher": "Damicolo",
+    "copyright": "© 2016 Damicolo. All rights reserved.",
+    "description": "Join Peppa and her friends for a fun-filled memory adventure. Specifically designed for little piggies and their families, the Peppa Pig Memory Game brings the colorful world of the hit show to your Windows 8 device. This charming, educational game helps children develop concentration and cognitive skills through a series of engaging matching challenges featuring all their favorite characters.",
+    "mainStars": "1",
+    "ratingNumber": "1.2",
+    "ratingsCount": "5",
+    "size": "2.81 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/peppapigmemorygame.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/65327Damicolo.PeppaPigMemoryGame_1.0.0.3_neutral__3fzfqdacad5k6.appx"
 
 }
+
 
 
 
