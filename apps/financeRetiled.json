@@ -1,11 +1,20 @@
 {
     "displayname" : "Finance",
     "productType" : "app",
-    "category" : "bussiness",
+    "category" : "Productivity",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2012-2014 Microsoft Corporation. All rights reserved.",
+    "description": "Finance simplified. Know more about your money with the world’s best financial news and data. Grow your finances with handy tools and calculators, any time and anywhere.",
+    "mainStars": "5",
+    "ratingNumber": "7.4",
+    "ratingsCount": "152",
+    "size": "9.72 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/finance.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Microsoft.BingFinance_3.0.0.693_x64__8wekyb3d8bbwe.appx"
 
 }
+
 
 
 
