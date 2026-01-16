@@ -1,11 +1,20 @@
 {
     "displayname" : "VLC",
     "productType" : "app",
-    "category" : "productivity",
+    "category" : "Productivity",
+    "publisher": "VideoLAN",
+    "copyright": "© 2018 VideoLAN. All rights reserved.",
+    "description": "Play everything, everywhere. The world’s most versatile media player has been completely reimagined for Windows 8. VLC for Windows 8 combines the legendary play-anything engine of the classic desktop version with a sleek, modern, and touch-optimized interface. Whether you’re watching a HD movie on your Surface or listening to your FLAC music collection on a laptop, VLC handles it all with ease—no extra codecs required.",
+    "mainStars": "3",
+    "ratingNumber": "3.8",
+    "ratingsCount": "117",
+    "size": "20.8 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/vlcplayer.PNG",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/VideoLAN.VLC_2018.802.825.0_neutral___paz6r1rewnh0a.appx"
 
 }
+
 
 
 
