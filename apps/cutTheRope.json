@@ -1,10 +1,19 @@
 {
     "displayname" : "Cut The Rope",
     "productType" : "game",
-    "category" : "puzzle",
+    "category" : "Games",
+    "publisher": "ZeptoLab",
+    "copyright": "© 2013 ZeptoLab. All rights reserved.",
+    "description": "Feed Om Nom his favorite candy! The world-renowned puzzle sensation Cut the Rope arrives on Windows 8 with crisp high-definition graphics and the same addictive gameplay that has captivated millions. A mysterious package has arrived, and the little monster inside has only one request: CANDY!",
+    "mainStars": "3",
+    "ratingNumber": "3.2",
+    "ratingsCount": "106",
+    "size": "50.2 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/CutTheRope.png",
     "downloadUri" : "https://dankassassin368.com/Stuff/APPX/Windows%208.1%20APPX%20Files/Games/Cut%20The%20Rope/x86/8.1/ZeptoLabUKLimited.CutTheRope_1.2.0.43_x86__sq9zxnwrk84pj.appx"
 
 }
+
 
 
