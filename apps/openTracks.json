@@ -1,10 +1,19 @@
 {
     "displayname" : "OpenTracks",
     "productType" : "app",
-    "category" : "music",
+    "category" : "Music",
+    "publisher": "tedrooz",
+    "copyright": "© 2025 tedrooz. All rights reserved.",
+    "description": "OpenTracks is a versatile, community-focused application designed to bring modern functionality and open-source freedom to the Windows 8 Metro environment. Whether you are tracking your latest outdoor adventure or streaming your favorite independent music.",
+    "mainStars": "4",
+    "ratingNumber": "6.8",
+    "ratingsCount": "144",
+    "size": "1.79 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/openTracks.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/OpenTracksDesktop_B3.appx"
 
 }
+
 
 
