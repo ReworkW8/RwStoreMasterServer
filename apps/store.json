@@ -1,7 +1,7 @@
 {
     "displayname" : "Windows Store Rework",
     "productType" : "app",
-    "category" : "Store",
+    "category" : "Mods",
     "publisher": "Rework",
     "copyright": "© 2025 Rework. All rights reserved.",
     "description": "Here you can update to the latest version of Windows Store Rework.",
@@ -14,6 +14,7 @@
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Rework.WindowsStoreRelease4.appx"
 
 }
+
 
 
 
