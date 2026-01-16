@@ -1,11 +1,20 @@
 {
     "displayname" : "Dumb Ways to Die 2: The Games",
     "productType" : "app",
-    "category" : "game",
+    "category" : "Games",
+    "publisher": "Metro Trains Melbourne",
+    "copyright": "© 2014 Metro Trains Melbourne. All rights reserved.",
+    "description": "The world’s dumbest characters are back, and they’ve gathered for an even bigger, dumber competition! Following the viral success of the original campaign, Dumb Ways to Die 2: The Games brings a massive set of new, action-packed mini-games to your Windows 8 device. Train safety has never been this hilariously frantic.",
+    "mainStars": "4",
+    "ratingNumber": "4.2",
+    "ratingsCount": "131",
+    "size": "23.3 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/dumbwaystodie2thegames.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/METROTRAINSMELBOURNE.DumbWaystoDie2TheGames_2016.122.37.1886_neutral___yq4mzw6f7hyga.appx"
 
 }
+
 
 
 
