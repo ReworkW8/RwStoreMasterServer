@@ -8,12 +8,13 @@
     "mainStars": "5",
     "ratingNumber": "Rework",
     "ratingsCount": "Rework",
-    "size": <UpdateSize>,
+    "size": "<UpdateSize>",
     "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/store.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Rework.WindowsStoreRelease4.appx"
 
 }
+
 
 
 
