@@ -11,9 +11,13 @@
     "size": "4.7 MB",
     "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/FoodDrink.png",
+    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/food%26drinkimg1.png",
+    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/food%26drinkimg2.png",
+    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/food%26drinkimg3.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Microsoft.BingFoodAndDrink_3.0.0.693_x64__8wekyb3d8bbwe.appx"
 
 }
+
 
 
 
