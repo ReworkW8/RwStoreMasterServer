@@ -11,9 +11,13 @@
     "size": "4.15 MB",
     "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/evernote.png",
+    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/evernoteimg1.png",
+    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/evernoteimg2.png",
+    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/evernoteimg3.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Evernote.Evernote_2.0.3.11_x86__q4d96b2w5wcc2.appx"
 
 }
+
 
 
 
