@@ -11,9 +11,13 @@
     "size": "5.64 MB",
     "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/netflix.png",
+    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/netfliximg1.png",
+    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/netfliximg2.png",
+    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/netfliximg3.PNG",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/4DF9E0F8.Netflix_2.22.0.39_x86__mcm4njqhnhss8.appx"
 
 }
+
 
 
 
