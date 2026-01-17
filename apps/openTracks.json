@@ -11,9 +11,13 @@
     "size": "1.79 MB",
     "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/openTracks.png",
+    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/openTracksimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/openTracksimg1.PNG",
+    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/openTracksimg1.PNG",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/OpenTracksDesktop_B3.appx"
 
 }
+
 
 
 
