@@ -6,14 +6,12 @@
             "lock_mode": true,
             "version1.3": false,
             "version1.4": true,
-            "version1.5": false,
+            "version1.5": true,
             "session_persistence": "enabled",
             "global_status": "operational",
             "environment": "production-master",
             "version_lock": {
-                "active_version": "1.4.0.0",
-                "action_on_incompatible": "FORCE_OFFLINE",
-                "maintenance_mode": true
+                "active_version": "1.5.0.0",
             }
         },
         "network_routing": {
@@ -187,6 +185,7 @@
         }
     }
 }
+
 
 
 
