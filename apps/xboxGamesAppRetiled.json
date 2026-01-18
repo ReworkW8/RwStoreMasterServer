@@ -11,9 +11,13 @@
     "size": "9.17 MB",
     "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/XBLGames.png",
+    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/xboxGamesAppimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/xboxGamesAppimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/xboxGamesAppimg3.PNG",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Games.appx"
 
 }
+
 
 
 
