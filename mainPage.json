@@ -12,6 +12,8 @@
             "environment": "production-master",
             "version_lock": {
                 "active_version": "1.5.0.0",
+                "action_on_incompatible": "FORCE_OFFLINE",
+                "maintenance_mode": true
             }
         },
         "network_routing": {
@@ -185,6 +187,7 @@
         }
     }
 }
+
 
 
 
