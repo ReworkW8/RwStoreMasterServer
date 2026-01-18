@@ -34,7 +34,7 @@
                     {"uid": "RW_G_CTR_L", "label": "cutTheRope", "description": "A mysterious package has arrived, and the little monster inside has only one request… CANDY! Cut the Rope is the award-winning physics-based puzzle game that took the world by storm, now fully optimized for the Windows 8 experience. Combine outstanding physics, tricky levels, and bright visuals to guide the candy into Om Nom’s mouth. But be careful—collecting the three gold stars in each level is where the real challenge begins!"},
                     {"uid": "RW_DZR_01", "label": "deezer", "description": "Discover your next favorite song with Deezer! Deezer for Windows 8 brings over 20 million tracks (and counting!) to your fingertips with a sleek, fluid interface designed specifically for the modern era of Windows. Combining professional editorial curation with smart algorithms, Deezer ensures that your music is as unique as you are."},
                     {"uid": "RW_NET_SPD", "label": "networkSpeedTest", "description": "Network Speed Test is a clean, ad-free, and highly accurate utility designed to help you understand your internet performance. Whether you are troubleshooting a slow Wi-Fi connection or testing your new 4G LTE data speeds on a Windows 8 PC, this app provides the data you need in seconds."},
-                    {"uid": "RW_G_WMW", "label": "whereismyWhater", "description": "Help Swampy the Alligator get his shower! Deep beneath the city, Swampy just wants to be clean, but the other alligators are out to sabotage his water supply. Where’s My Water? is a challenging, physics-based puzzler that requires quick thinking and clever strategy. Use your screen to carve through dirt and guide fresh water, purple ooze, and steam to help Swampy and his friends."},
+                    {"uid": "RW_G_WMW", "label": "whereismyWater", "description": "Help Swampy the Alligator get his shower! Deep beneath the city, Swampy just wants to be clean, but the other alligators are out to sabotage his water supply. Where’s My Water? is a challenging, physics-based puzzler that requires quick thinking and clever strategy. Use your screen to carve through dirt and guide fresh water, purple ooze, and steam to help Swampy and his friends."},
                     {"uid": "RW_AMZ_KNDL", "label": "kindle", "description": "Carry thousands of books in the palm of your hand. The Kindle app is reimagined for Windows 8, providing a beautiful, easy-to-use interface that turns your tablet or PC into a powerful e-reader. Whether you are catching up on a bestseller during your commute or studying a textbook at your desk, Kindle for Windows 8 offers a seamless and immersive reading experience."},
                     {"uid": "RW_G_FNJ", "label": "fruitNinja", "description": "The slicer is back and sharper than ever! Fruit Ninja brings the addictive, high-energy action of the world’s most famous fruit-slicing game to the Windows 8 ecosystem. Whether you’re a master sensei or a newcomer to the dojo, Fruit Ninja provides a satisfying blend of simple mechanics and deep, skill-based challenges that are perfect for any device."},
                     {"uid": "RW_NTFX_01", "label": "netflix", "description": "The world’s leading subscription service for movies and TV shows comes to the Start Screen. The Netflix app for Windows 8 has been built from the ground up to take full advantage of the modern Metro design. It offers a fast, fluid, and immersive way to discover and watch your favorite content—whether you are on a touch-screen tablet or a traditional desktop PC."},
@@ -100,7 +100,7 @@
                         {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
                         {"uid": "RW_G_MSW", "label": "msMinesweeper"},
                         {"uid": "RW_G_CTR_L", "label": "cutTheRope"},
-                        {"uid": "RW_G_WMW", "label": "whereismyWhater"},
+                        {"uid": "RW_G_WMW", "label": "whereismyWater"},
                         {"uid": "RW_G_FNJ", "label": "fruitNinja"},
                         {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames"},
                         {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
@@ -167,7 +167,7 @@
                         },
                         {
                             "title": "Indie Games",
-                            "apps": ["crossyRoad", "fruitNinja", "whereismyWhater", "cutTheRope"]
+                            "apps": ["crossyRoad", "fruitNinja", "whereismyWater", "cutTheRope"]
                         },
                         {
                             "title": "The Newsstand",
@@ -186,6 +186,7 @@
         }
     }
 }
+
 
 
 
