@@ -12,7 +12,7 @@
             "global_status": "operational",
             "environment": "production-master",
             "version_lock": {
-                "active_version": "1.5.0.0",
+                "active_version": "1.6.0.0",
                 "action_on_incompatible": "FORCE_OFFLINE",
                 "maintenance_mode": true
             }
@@ -188,6 +188,7 @@
         }
     }
 }
+
 
 
 
