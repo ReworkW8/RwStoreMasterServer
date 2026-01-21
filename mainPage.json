@@ -7,7 +7,7 @@
             "version1.3": false,
             "version1.4": false,
             "version1.5": true,
-            "version1.6": false,
+            "version1.6": true,
             "session_persistence": "enabled",
             "global_status": "operational",
             "environment": "production-master",
@@ -188,6 +188,7 @@
         }
     }
 }
+
 
 
 
