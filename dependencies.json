@@ -14,10 +14,11 @@
         }
       ],
       "environment_tags": [
-        "wsr",
+        "RwStore",
         "store"
       ]
     }
   }
 }
+
 
