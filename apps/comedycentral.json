@@ -10,13 +10,14 @@
     "ratingsCount": "43",
     "size": "2.14 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/comedycentral.png",
-    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/comedycentralimg1.png",
-    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/comedycentralimg2.png",
-    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/comedycentralimg3.png",
-    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/ComedyCentral.ComedyCentral_2014.604.2145.3835_neutral___67nybarqmz8cp.appx"
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/comedycentral.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/comedycentralimg1.png",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/comedycentralimg2.png",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/comedycentralimg3.png",
+    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/appxs/ComedyCentral.ComedyCentral_2014.604.2145.3835_neutral___67nybarqmz8cp.appx"
 
 }
+
 
 
 
