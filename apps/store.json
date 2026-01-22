@@ -1,5 +1,5 @@
 {
-    "displayname" : "Windows Store Rework",
+    "displayname" : "Rework-Store",
     "productType" : "app",
     "category" : "Mods",
     "mainStars": "5",
@@ -9,6 +9,7 @@
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Rework.WindowsStoreRelease7.appx"
 
 }
+
 
 
 
