@@ -10,13 +10,14 @@
     "ratingsCount": "29",
     "size": "175 KB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/amazon.png",
-    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/amazonimg1.PNG",
-    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/amazonimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/amazonimg3.PNG",
-    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Amazon.com.Amazon_2015.709.2021.4530_neutral_~_343d40qqvtj1t.appx"
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/amazon.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/amazonimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/amazonimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/amazonimg3.PNG",
+    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/appxs/Amazon.com.Amazon_2015.709.2021.4530_neutral_~_343d40qqvtj1t.appx"
 
 }
+
 
 
 
