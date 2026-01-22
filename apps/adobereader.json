@@ -10,13 +10,14 @@
     "ratingsCount": "670",
     "size": "2.66 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/adobereader.png",
-    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/adobereaderimg1.PNG",
-    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/adobereaderimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/adobereaderimg3.PNG",
-    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/AdobeSystemsIncorporated.AdobeReader_ynb6jyjzte8ga.appx"
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/adobereader.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/adobereaderimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/adobereaderimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/adobereaderimg3.PNG",
+    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/appxs/AdobeSystemsIncorporated.AdobeReader_ynb6jyjzte8ga.appx"
 
 }
+
 
 
 
