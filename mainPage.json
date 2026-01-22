@@ -7,7 +7,7 @@
             "version1.3": false,
             "version1.4": false,
             "version1.5": false,
-            "version1.6": true,
+            "version1.6": false,
             "version1.7": false,
             "version1.8": true,
             "session_persistence": "enabled",
@@ -190,6 +190,7 @@
         }
     }
 }
+
 
 
 
