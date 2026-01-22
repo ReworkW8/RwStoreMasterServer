@@ -10,13 +10,14 @@
     "ratingsCount": "89",
     "size": "1.84 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/myTube.png",
-    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/myTubeimg1.png",
-    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/myTubeimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/myTubeimg3.PNG",
-    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/myTube.appx"
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/myTube.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/myTubeimg1.png",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/myTubeimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/myTubeimg3.PNG",
+    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/appxs/myTube.appx"
 
 }
+
 
 
 
