@@ -18,9 +18,9 @@
             }
         },
         "network_routing": {
-            "base_origin": "https://reworkw8.github.io/WSRMasterServer/v3",
-            "asset_mirror": "https://reworkw8.github.io/WSRMasterServer/content",
-            "auth_service": "https://reworkw8.github.io/WSRMasterServer/auth"
+            "base_origin": "https://reworkw8.github.io/RwStoreMasterServer/v3",
+            "asset_mirror": "https://reworkw8.github.io/RwStoreMasterServer/content",
+            "auth_service": "https://reworkw8.github.io/RwStoreMasterServer/auth"
         },
         "content_registry": {
             "live_tile_feed": {
@@ -188,6 +188,7 @@
         }
     }
 }
+
 
 
 
