@@ -10,13 +10,14 @@
     "ratingsCount": "152",
     "size": "9.72 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/finance.png",
-    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/financeimg1.png",
-    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/financeimg2.png",
-    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/financeimg3.png",
-    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Microsoft.BingFinance_3.0.0.693_x64__8wekyb3d8bbwe.appx"
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/finance.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/financeimg1.png",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/financeimg2.png",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/financeimg3.png",
+    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/appxs/Microsoft.BingFinance_3.0.0.693_x64__8wekyb3d8bbwe.appx"
 
 }
+
 
 
 
