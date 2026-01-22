@@ -10,13 +10,14 @@
     "ratingsCount": "162",
     "size": "12.7 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/moorhuhn.png",
-    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/moorhuhnimg1.PNG",
-    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/moorhuhnimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/moorhuhnimg3.PNG",
-    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/DoyodoEntertainment.Moorhuhn_2016.207.2005.1770_neutral___0qwabqepr8cdj.appx"
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/moorhuhn.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/moorhuhnimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/moorhuhnimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/moorhuhnimg3.PNG",
+    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/appxs/DoyodoEntertainment.Moorhuhn_2016.207.2005.1770_neutral___0qwabqepr8cdj.appx"
 
 }
+
 
 
 
