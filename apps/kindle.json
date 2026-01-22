@@ -10,13 +10,14 @@
     "ratingsCount": "54",
     "size": "1.84 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/kindle.png",
-    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/kindleimg1.png",
-    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/kindleimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/kindleimg3.PNG",
-    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/AMZNMobileLLC.KindleforWindows8_2.1.0.2_neutral__stfe6vwa9jnbp.appx"
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/kindle.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/kindleimg1.png",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/kindleimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/kindleimg3.PNG",
+    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/appxs/AMZNMobileLLC.KindleforWindows8_2.1.0.2_neutral__stfe6vwa9jnbp.appx"
 
 }
+
 
 
 
