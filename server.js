@@ -9,7 +9,7 @@ const PORT = 5000;
 app.use(cors());
 
 
-app.get('/WSRMasterServer/mainPage.json', (req, res) => {
+app.get('/RwStoreMasterServer/mainPage.json', (req, res) => {
     const filePath = path.join(__dirname, 'mainPage.json');
     fs.readFile(filePath, 'utf8', (err, data) => {
         if (err) {
@@ -23,7 +23,7 @@ app.get('/WSRMasterServer/mainPage.json', (req, res) => {
 
 /**
 
-app.get('/WSRMasterServer/apps/:appName.json', (req, res) => {
+app.get('/RwStoreMasterServer/apps/:appName.json', (req, res) => {
     const appName = req.params.appName;
     const filePath = path.join(__dirname, 'apps', `${appName}.json`);
 
