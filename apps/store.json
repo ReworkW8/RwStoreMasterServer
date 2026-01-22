@@ -5,10 +5,11 @@
     "mainStars": "5",
     "ratingNumber": "Rework",
     "ratingsCount": "Rework",
-    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/store.png",
-    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Rework.WindowsStoreRelease7.appx"
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/store.PNG",
+    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Rework.ReworkStoreRelease8.appx"
 
 }
+
 
 
 
