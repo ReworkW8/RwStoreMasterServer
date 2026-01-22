@@ -10,13 +10,14 @@
     "ratingsCount": "5",
     "size": "2.81 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/peppapigmemorygame.png",
-    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/peppapigmemorygameimg1.PNG",
-    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/peppapigmemorygameimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/peppapigmemorygameimg3.PNG",
-    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/65327Damicolo.PeppaPigMemoryGame_1.0.0.3_neutral__3fzfqdacad5k6.appx"
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/peppapigmemorygame.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/peppapigmemorygameimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/peppapigmemorygameimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/peppapigmemorygameimg3.PNG",
+    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/appxs/65327Damicolo.PeppaPigMemoryGame_1.0.0.3_neutral__3fzfqdacad5k6.appx"
 
 }
+
 
 
 
