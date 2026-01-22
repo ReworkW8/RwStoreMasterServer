@@ -10,10 +10,11 @@
     "ratingsCount": "120",
     "size": "8.33 MB",
     "ageRating": "Everyone",
-    "imgUrl": "https://reworkw8.github.io/WSRMasterServer/images/photoshop.png",
-    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/adobePhotoshopimg1.PNG",
-    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/adobePhotoshopimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/adobePhotoshopimg3.png",
-    "downloadUri": "https://reworkw8.github.io/WSRMasterServer/appxs/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga.appx"
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/photoshop.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg3.png",
+    "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/appxs/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga.appx"
 }
+
 
