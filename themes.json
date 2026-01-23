@@ -11,7 +11,7 @@
         "curated_selection": {
           "internal_code": "RW-TH-001",
           "payload": [
-            { "label": "weathertheme", "uid": "RW_WTHR_88" }
+            { "label": "test", "uid": "RW_WTHR_88" }
           ]
         }
       }
