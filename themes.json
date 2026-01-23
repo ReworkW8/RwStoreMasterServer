@@ -1,25 +1,20 @@
 {
   "rework_core_system": {
-    "gateway_control": {
-      "node_active": true,
-      "session_persistence": "enabled",
-      "global_status": "operational",
-      "environment": "production-master"
-    },
     "content_theme": {
       "deployment_groups": {
         "curated_selection": {
-          "internal_code": "RW-TH-001",
           "payload": [
-            { "label": "test", "uid": "RW_WTHR_88" }
+            {
+              "displayname": "test",
+              "productType": "theme",
+              "downloadUri": ""
+            }
           ]
         }
       }
     }
   },
   "metadata": {
-    "container_width": "1000px",
-    "version": "1.1.2",
-    "encryption_layer": "AES-256-GCM"
+    "version": "1.1.2"
   }
 }
