@@ -5,9 +5,9 @@
         "curated_selection": {
           "payload": [
             {
-              "displayname": "Original Windows Store",
+              "displayname": "Dark",
               "productType": "",
-              "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/themes/Original_Windows_Store.RwStoreOfficialTheme"
+              "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/themes/Dark.RwStoreOfficialTheme"
             },
             {
               "displayname": "Rework Dark Edition",
