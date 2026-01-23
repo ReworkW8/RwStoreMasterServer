@@ -11,13 +11,15 @@
         "curated_selection": {
           "internal_code": "RW-TH-001",
           "payload": [
-            { "label": "Original_Windows_Store.RwStoreOfficialTheme"},
+            { "label": "weathertheme", "uid": "RW_WTHR_88" }
           ]
-        },
-
+        }
+      }
+    }
+  },
   "metadata": {
     "container_width": "1000px",
     "version": "1.1.2",
-    "encryption_layer": "AES-256-GCM",
+    "encryption_layer": "AES-256-GCM"
   }
 }
