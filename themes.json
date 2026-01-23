@@ -5,9 +5,29 @@
         "curated_selection": {
           "payload": [
             {
-              "displayname": "test",
+              "displayname": "Original Windows Store",
               "productType": "theme",
               "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/themes/Original_Windows_Store.RwStoreOfficialTheme"
+            },
+            {
+              "displayname": "Rework Dark Edition",
+              "productType": "theme",
+              "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/themes/Rework_Dark.RwStoreOfficialTheme"
+            },
+            {
+              "displayname": "Metro Blue",
+              "productType": "theme",
+              "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/themes/Metro_Blue.RwStoreOfficialTheme"
+            },
+            {
+              "displayname": "Modern Slate",
+              "productType": "theme",
+              "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/themes/Modern_Slate.RwStoreOfficialTheme"
+            },
+            {
+              "displayname": "Solarized Light",
+              "productType": "theme",
+              "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/themes/Solarized_Light.RwStoreOfficialTheme"
             }
           ]
         }
