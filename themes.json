@@ -1,6 +1,8 @@
 {
   "rework_core_system": {
     "content_theme": {
+      "deployment_groups": {
+        "curated_selection": {
           "payload": [
             {
               "displayname": "Dark",
