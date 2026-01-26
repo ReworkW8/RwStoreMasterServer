@@ -109,6 +109,7 @@
                         {"uid": "RW_G_FNJ", "label": "fruitNinja"},
                         {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames"},
                         {"uid": "RW_G_RRX", "label": "raymanJungleRun"},
+                        {"uid": "RW_CLS_01", "label": "caelus"},
                         {"uid": "RW_FLPB_01", "label": "flappybird"}
                     ]
                 },
@@ -192,6 +193,7 @@
         }
     }
 }
+
 
 
 
