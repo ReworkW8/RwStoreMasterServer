@@ -10,10 +10,11 @@
     "ratingsCount": "103",
     "size": "115 MB",
     "ageRating": "13+",
-    "imgUrl": "https://reworkw8.github.io/WSRMasterServer/images/caelus.png",
-    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/blankapp.png",
-    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/blankapp.png",
-    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/blankapp.png",
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/caelus.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/blankapp.png",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/blankapp.png",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/blankapp.png",
     "downloadUri": "https://github.com/ReworkW8/CaelusApp/releases/download/appx/CaelusRelease1.0.appx"
 }
+
 
