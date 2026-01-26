@@ -34,6 +34,7 @@
             { "label": "adobereader", "uid": "RW_ADRE_01" },
             { "label": "flappybird", "uid": "RW_FLPB_01" },
             { "label": "caelus", "uid": "RW_CLS_01" },
+            { "label": "caeluslegacy", "uid": "RW_CLS_01" },
             { "label": "travelRetiled", "uid": "RW_TRVL_01" }
           ]
         },
