@@ -1,0 +1,19 @@
+{
+    "displayname": "Caelus",
+    "productType": "app",
+    "category": "Games",
+    "publisher": "mwah",
+    "copyright": "© 2026 mwah. All rights reserved.",
+    "description": "With the Caelus app for Windows 8 you can finally relive 2020 of Roblox if you want to play the legacy version of Caelus you can also find it here and you can also find the legacy version of Caelus-Site at https://github.com/caelusinfra/windows-bootstrapper/releases this version you are currently on is the Metro app version of Caelus.",
+    "mainStars": "2",
+    "ratingNumber": "2.6",
+    "ratingsCount": "103",
+    "size": "115 MB",
+    "ageRating": "13+",
+    "imgUrl": "https://reworkw8.github.io/WSRMasterServer/images/caelus.png",
+    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/blankapp.png",
+    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/blankapp.png",
+    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/blankapp.png",
+    "downloadUri": "https://github.com/ReworkW8/CaelusApp/releases/download/appx/CaelusRelease1.0.appx"
+}
+
