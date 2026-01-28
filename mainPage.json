@@ -156,28 +156,14 @@
                     "title": "Windows RT",
                     "internal_code": "RW-WIN-RT",
                     "payload": [
-                        {"uid": "RW_MTB_07", "label": "myTube"},
-                        {"uid": "RW_ADOBE_PS", "label": "adobePhotoshop"},
-                        {"uid": "RW_TRK_OPEN", "label": "openTracks"},
-                        {"uid": "RW_NET_SPD", "label": "networkSpeedTest"},
-                        {"uid": "RW_AMZ_KNDL", "label": "kindle"},
-                        {"uid": "RW_NTFX_01", "label": "netflix"},
-                        {"uid": "RW_EVNE_01", "label": "evernote"},
-                        {"uid": "RW_FIN_MGR", "label": "financeRetiled"}
+                        {"uid": "RW_WMI_01", "label": "winrtmetroinstaller"}
                     ]
                 },
                 "winphone_apps": {
                     "title": "Windows Phone",
                     "internal_code": "RW-WIN-PHONE",
                     "payload": [
-                        {"uid": "RW_MTB_07", "label": "myTube"},
-                        {"uid": "RW_ADOBE_PS", "label": "adobePhotoshop"},
-                        {"uid": "RW_TRK_OPEN", "label": "openTracks"},
-                        {"uid": "RW_NET_SPD", "label": "networkSpeedTest"},
-                        {"uid": "RW_AMZ_KNDL", "label": "kindle"},
-                        {"uid": "RW_NTFX_01", "label": "netflix"},
-                        {"uid": "RW_EVNE_01", "label": "evernote"},
-                        {"uid": "RW_FIN_MGR", "label": "financeRetiled"}
+                        
                     ]
                 },
                 "rework_peak": {
@@ -222,6 +208,7 @@
         }
     }
 }
+
 
 
 
