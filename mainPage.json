@@ -154,7 +154,7 @@
                 },
                 "winrt_apps": {
                     "title": "Windows RT",
-                    "internal_code": "RW-TA-002",
+                    "internal_code": "RW-WIN-RT",
                     "payload": [
                         {"uid": "RW_MTB_07", "label": "myTube"},
                         {"uid": "RW_ADOBE_PS", "label": "adobePhotoshop"},
@@ -168,7 +168,7 @@
                 },
                 "winphone_apps": {
                     "title": "Windows Phone",
-                    "internal_code": "RW-TA-002",
+                    "internal_code": "RW-WIN-PHONE",
                     "payload": [
                         {"uid": "RW_MTB_07", "label": "myTube"},
                         {"uid": "RW_ADOBE_PS", "label": "adobePhotoshop"},
@@ -222,6 +222,7 @@
         }
     }
 }
+
 
 
 
