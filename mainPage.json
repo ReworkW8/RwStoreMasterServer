@@ -11,11 +11,12 @@
             "version1.7": false,
             "version1.8": false,
             "version1.9": true,
+            "version2.0": true,
             "session_persistence": "enabled",
             "global_status": "operational",
             "environment": "production-master",
             "version_lock": {
-                "active_version": "1.9.0.0",
+                "active_version": "2.0.0.0",
                 "action_on_incompatible": "FORCE_OFFLINE",
                 "maintenance_mode": true
             }
@@ -193,6 +194,7 @@
         }
     }
 }
+
 
 
 
