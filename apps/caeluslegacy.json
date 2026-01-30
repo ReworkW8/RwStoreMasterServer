@@ -11,9 +11,10 @@
     "size": "1.05 MB",
     "ageRating": "13+",
     "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/caeluslegacy.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/blankapp.png",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/blankapp.png",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/blankapp.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/caeluslegacyimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/caeluslegacyimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/caeluslegacyimg3.PNG",
     "downloadUri": "https://github.com/caelusinfra/windows-bootstrapper/releases"
 }
+
 
