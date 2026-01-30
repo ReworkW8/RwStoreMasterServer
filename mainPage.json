@@ -33,6 +33,7 @@
                 "payload": [
                     {"uid": "RW_MTB_07", "label": "myTube", "description": "myTube! was built with one goal in mind to provide the most fluid and feature-rich YouTube experience on Windows 8. Designed to feel like a native part of the OS, it prioritizes speed, elegant transitions, and a clean interface that puts the content first."},
                     {"uid": "RW_G_ABS", "label": "angryBirdsSpace", "description": "The first mobile game of all time blasts off into orbit! After a giant claw kidnaps their eggs, the Angry Birds chase it into a wormhole and find themselves floating in a strange new galaxy—surrounded by space pigs! Angry Birds Space takes the physics-based gameplay you love and adds a cosmic twist that changes everything."},
+                    {"uid": "RW_DMMR_01", "label": "minionrush", "description": "The official game of the Despicable Me franchise arrives on Windows 8, bringing Gru’s loyal, yellow, gibberish-speaking Minions to your screen in a high-speed, 3D endless runner. Whether you're dodging missiles in Gru’s Lab or sprinting through a Residential Area, Minion Rush delivers the heart and humor of the movies with addictive, fast-paced gameplay optimized for both touch and desktop."},
                     {"uid": "RW_ADOBE_PS", "label": "adobePhotoshop", "description": "The world’s most advanced digital imaging software, now optimized for the next generation of hardware. Whether you are a professional photographer or a digital artist, Adobe Photoshop on Windows 8 brings you closer to your pixels than ever before. With support for high-DPI displays and intuitive touch gestures, your canvas is now more responsive and immersive."},
                     {"uid": "RW_G_MSW", "label": "msMinesweeper", "description": "The world’s most iconic puzzle game has evolved Microsoft Minesweeper for Windows 8 takes the legendary gameplay you know and love and transforms it into a modern, immersive experience. With updated graphics, new game modes, and full integration with your Xbox account, the hunt for mines has never been more exciting."},
                     {"uid": "RW_TYPS_01", "label": "tortasypostres", "description": "Bring the sweetness home Tortas y Postres is a beautifully designed Windows 8 application dedicated to the world of fine cakes and desserts. Designed with the modern Metro interface in mind, it offers a visual feast of recipes that look stunning on both tablets and desktop PCs."},
@@ -111,6 +112,7 @@
                         {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames"},
                         {"uid": "RW_G_RRX", "label": "raymanJungleRun"},
                         {"uid": "RW_CLS_01", "label": "caelus"},
+                        {"uid": "RW_DMMR_01", "label": "minionrush"},
                         {"uid": "RW_FLPB_01", "label": "flappybird"}
                     ]
                 },
@@ -208,6 +210,7 @@
         }
     }
 }
+
 
 
 
