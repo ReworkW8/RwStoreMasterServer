@@ -14,8 +14,9 @@
     "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/winrtmetroinstallerimg1.PNG",
     "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/winrtmetroinstallerimg2.PNG",
     "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/winrtmetroinstallerimg3.PNG",
-    "downloadUri": "https://github.com/WindowsLock/WinRTmetroAppInstaller/releases/tag/WinRT"
+    "downloadUri": "https://github.com/WindowsLock/WinRTmetroAppInstaller/releases/"
 }
+
 
 
 
