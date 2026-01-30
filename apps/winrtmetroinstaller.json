@@ -11,10 +11,11 @@
     "size": "1.24 KB",
     "ageRating": "Everyone",
     "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/winrtmetroinstaller.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/blankapp.png",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/blankapp.png",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/blankapp.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/winrtmetroinstallerimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/winrtmetroinstallerimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/winrtmetroinstallerimg3.PNG",
     "downloadUri": "https://github.com/WindowsLock/WinRTmetroAppInstaller/releases/tag/WinRT"
 }
+
 
 
