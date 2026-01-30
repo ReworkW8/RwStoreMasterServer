@@ -1,0 +1,20 @@
+{
+    "displayname": "Despicable Me: Minion Rush",
+    "productType": "app",
+    "category": "Games",
+    "publisher": "GAMELOFT  SA",
+    "copyright": "© 2019 GAMELOFT  SA. All rights reserved.",
+    "description": "The official game of the Despicable Me franchise arrives on Windows 8, bringing Gru’s loyal, yellow, gibberish-speaking Minions to your screen in a high-speed, 3D endless runner. Whether you're dodging missiles in Gru’s Lab or sprinting through a Residential Area, Minion Rush delivers the heart and humor of the movies with addictive, fast-paced gameplay optimized for both touch and desktop.",
+    "mainStars": "5",
+    "ratingNumber": "5.9",
+    "ratingsCount": "196",
+    "size": "76.6 MB",
+    "ageRating": "Everyone",
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/minionrush.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/minionrushimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/minionrushimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/minionrushimg3.PNG",
+    "downloadUri": "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/GAMELOFTSA.DespicableMeMinionRush_4.1.4.1_x86__0pp20fcewvvtj.appx"
+}
+
+
