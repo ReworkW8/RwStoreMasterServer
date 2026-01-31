@@ -1,0 +1,20 @@
+{
+    "displayname": "Farming Simulator 14 for Windows RT",
+    "productType": "app",
+    "category": "Windows RT",
+    "publisher": "GIANTS Software",
+    "copyright": "© 2014 GIANTS Software. All rights reserved.",
+    "description": "The harvest is calling. Take control of your very own farm in Farming Simulator 14. This edition brings a refined, sleek aesthetic to the Windows RT platform, allowing you to manage a massive open world of fields and machinery. Whether you are playing on a Surface tablet, the experience is deep, relaxing, and incredibly rewarding.",
+    "mainStars": "2",
+    "ratingNumber": "2.3",
+    "ratingsCount": "106",
+    "size": "67.2 MB",
+    "ageRating": "Everyone",
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/farmingsimulator14.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/farmingsimulator14img1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/farmingsimulator14img2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/farmingsimulator14img3.PNG",
+    "downloadUri": "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/GIANTSSoftware.FarmingSimulator14_1.3.0.1_arm__fa8jxm5fj0esw.appx"
+}
+
+
