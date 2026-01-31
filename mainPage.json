@@ -159,7 +159,8 @@
                     "title": "Windows RT",
                     "internal_code": "RW-WIN-RT",
                     "payload": [
-                        {"uid": "RW_WMI_01", "label": "winrtmetroinstaller"}
+                        {"uid": "RW_WMI_01", "label": "winrtmetroinstaller"},
+                        {"uid": "RW_FS14WinRT_01", "label": "farmingsimulator14WinRT"}
                     ]
                 },
                 "winphone_apps": {
@@ -211,6 +212,7 @@
         }
     }
 }
+
 
 
 
